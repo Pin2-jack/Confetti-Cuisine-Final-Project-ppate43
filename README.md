@@ -4,11 +4,11 @@ I completed the Confetti-Cuisine project's final delivery, which included learni
 
 # Technologies:
 * HTML
-CSS
-JavaScript
-BootStrap
-JSON
-Mongo DB
-Node JS
-Express JS
-EJS
+* CSS
+* JavaScript
+* BootStrap
+* JSON
+* Mongo DB
+* Node JS
+* Express JS
+* EJS
